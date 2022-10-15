@@ -1,8 +1,8 @@
-# 0x18. C - Stacks, Queues - LIFO, FIFO
+# 0x19. C - Stacks, Queues - LIFO, FIFO
 
 ## Description
 
-This Holberton School project is a custom ByteCode interpreter, coded in C.
+This ALX School project is a custom ByteCode interpreter, coded in C.
 Compilation:
 gcc -Wall -Werror -Wextra -pedantic *.c -o monty
 Usage:
